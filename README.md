@@ -1,0 +1,1 @@
+# Kofi-jnr-trading-app
